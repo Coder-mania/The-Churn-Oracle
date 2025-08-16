@@ -4,6 +4,17 @@
 ## Overview
 The Churn Oracle is a mini-project designed to predict customer churn in the telecom sector using machine learning models such as XGBoost, SVM, LDA, and KNN. It also integrates SHAP for explainability and an AI-powered assistant to query telecom-related documents.
 
+## Technologies and Tools
+| Component                     | Technology Used |
+|---------------------------|----------|
+| Web Framework                  | Streamlit      | 
+| ML Modeling     | XGBoost, RandomizedSearchCV     |
+| Explainability | SHAP (TreeExplainer)      |
+| Document Processing | Langchain, FAISS, PyMuPDF |
+| OCR & Privacy Masking | Tesseract |
+| RAG Assistant | Langchain + OpenAI GPT Model |
+| Programming Language | Python 3.x | 
+
 ## Features
 - Predicts telecom customer churn
 - Provides SHAP-based interpretability
