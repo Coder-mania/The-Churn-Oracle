@@ -5,7 +5,7 @@
 The Churn Oracle is a mini-project designed to predict customer churn in the telecom sector using machine learning models such as XGBoost, SVM, LDA, and KNN. It also integrates SHAP for explainability and an AI-powered assistant to query telecom-related documents.
 
 ### Model Performance
-[Img 3 model results.png](https://github.com/Coder-mania/The-Churn-Oracle/blob/main/Images/Img%203%20model%20results.jpg))
+[Img 3 model results.png](https://github.com/Coder-mania/The-Churn-Oracle/blob/main/Images/Img%203%20model%20results.jpg)
 
 ### User Interface
 ![UHomepage(images/UI img.png)
