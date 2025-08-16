@@ -8,7 +8,7 @@ The Churn Oracle is a mini-project designed to predict customer churn in the tel
 ![Img 3 model results.png](https://github.com/Coder-mania/The-Churn-Oracle/blob/main/Images/Img%203%20model%20results.jpg)
 
 ## User Interface
-![[UHomepage(images/UI img.png)](https://github.com/Coder-mania/The-Churn-Oracle/blob/main/Images/UI%20img.jpg)
+![UHomepage(images/UI img.png)](https://github.com/Coder-mania/The-Churn-Oracle/blob/main/Images/UI%20img.jpg)
 
 ## Technologies and Tools
 | Component                     | Technology Used |
