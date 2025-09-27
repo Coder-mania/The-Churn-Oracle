@@ -18,9 +18,9 @@ The Churn Oracle is a mini-project designed to predict customer churn in the tel
 | Web Framework                  | Streamlit      | 
 | ML Modeling     | XGBoost, RandomizedSearchCV     |
 | Explainability | SHAP (TreeExplainer)      |
-| Document Processing | Langchain, FAISS, PyMuPDF |
+| Document Processing | Langchain, FAISS, PyPDF |
 | OCR & Privacy Masking | Tesseract |
-| RAG Assistant | Langchain + OpenAI GPT Model |
+| RAG Assistant | Langchain |
 | Programming Language | Python 3.x | 
 
 ## Features
